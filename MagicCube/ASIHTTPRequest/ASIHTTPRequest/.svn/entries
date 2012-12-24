@@ -1,0 +1,196 @@
+10
+
+dir
+0
+http://yangj.5166.info/1000phone/iOS/trunk/iOS/Network/weibo/weibo-oauth2/BookShare-Tecent/libs/ASIHTTPRequest/ASIHTTPRequest
+http://yangj.5166.info/1000phone
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b3ea32e5-604c-4fca-b5db-6ae888a3e4b3
+
+ASIHTTPRequest.m
+file
+
+
+
+add
+
+ASIWebPageRequest
+dir
+
+
+
+add
+
+ASICacheDelegate.h
+file
+
+
+
+add
+
+ASINetworkQueue.h
+file
+
+
+
+add
+
+ASIDataDecompressor.h
+file
+
+
+
+add
+
+ASIAuthenticationDialog.h
+file
+
+
+
+add
+
+ASIProgressDelegate.h
+file
+
+
+
+add
+
+ASIDownloadCache.m
+file
+
+
+
+add
+
+S3
+dir
+
+
+
+add
+
+ASINetworkQueue.m
+file
+
+
+
+add
+
+ASIDataDecompressor.m
+file
+
+
+
+add
+
+ASIAuthenticationDialog.m
+file
+
+
+
+add
+
+ASIFormDataRequest.h
+file
+
+
+
+add
+
+CloudFiles
+dir
+
+
+
+add
+
+ASIFormDataRequest.m
+file
+
+
+
+add
+
+ASIInputStream.h
+file
+
+
+
+add
+
+ASIHTTPRequestConfig.h
+file
+
+
+
+add
+
+Tests
+dir
+
+
+
+add
+
+ASIInputStream.m
+file
+
+
+
+add
+
+ASIHTTPRequestDelegate.h
+file
+
+
+
+add
+
+ASIDataCompressor.h
+file
+
+
+
+add
+
+ASIHTTPRequest.h
+file
+
+
+
+add
+
+ASIDownloadCache.h
+file
+
+
+
+add
+
+ASIDataCompressor.m
+file
+
+
+
+add
+

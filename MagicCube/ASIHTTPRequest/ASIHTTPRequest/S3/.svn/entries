@@ -1,0 +1,119 @@
+10
+
+dir
+0
+http://yangj.5166.info/1000phone/iOS/trunk/iOS/Network/weibo/weibo-oauth2/BookShare-Tecent/libs/ASIHTTPRequest/ASIHTTPRequest/S3
+http://yangj.5166.info/1000phone
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b3ea32e5-604c-4fca-b5db-6ae888a3e4b3
+
+ASIS3BucketRequest.h
+file
+
+
+
+add
+
+ASIS3Request.h
+file
+
+
+
+add
+
+ASIS3BucketObject.m
+file
+
+
+
+add
+
+ASIS3ServiceRequest.h
+file
+
+
+
+add
+
+ASIS3BucketRequest.m
+file
+
+
+
+add
+
+ASINSXMLParserCompat.h
+file
+
+
+
+add
+
+ASIS3Bucket.h
+file
+
+
+
+add
+
+ASIS3Request.m
+file
+
+
+
+add
+
+ASIS3ServiceRequest.m
+file
+
+
+
+add
+
+ASIS3ObjectRequest.h
+file
+
+
+
+add
+
+ASIS3Bucket.m
+file
+
+
+
+add
+
+ASIS3BucketObject.h
+file
+
+
+
+add
+
+ASIS3ObjectRequest.m
+file
+
+
+
+add
+

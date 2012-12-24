@@ -1,0 +1,168 @@
+10
+
+dir
+0
+http://yangj.5166.info/1000phone/iOS/trunk/iOS/Network/weibo/weibo-oauth2/BookShare-Tecent/libs/SDWebImage
+http://yangj.5166.info/1000phone
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b3ea32e5-604c-4fca-b5db-6ae888a3e4b3
+
+SDWebImageDownloader.m
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+SDWebImageManagerDelegate.h
+file
+
+
+
+add
+
+SDWebImageDecoder.h
+file
+
+
+
+add
+
+SDImageCache.h
+file
+
+
+
+add
+
+SDWebImageManager.h
+file
+
+
+
+add
+
+SDWebImageDecoder.m
+file
+
+
+
+add
+
+SDImageCache.m
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+UIButton+WebCache.h
+file
+
+
+
+add
+
+SDWebImageManager.m
+file
+
+
+
+add
+
+UIImageView+WebCache.h
+file
+
+
+
+add
+
+SDWebImageCompat.h
+file
+
+
+
+add
+
+UIButton+WebCache.m
+file
+
+
+
+add
+
+UIImageView+WebCache.m
+file
+
+
+
+add
+
+SDWebImagePrefetcher.h
+file
+
+
+
+add
+
+SDWebImageDownloaderDelegate.h
+file
+
+
+
+add
+
+SDWebImagePrefetcher.m
+file
+
+
+
+add
+
+SDWebImageDownloader.h
+file
+
+
+
+add
+
+SDImageCacheDelegate.h
+file
+
+
+
+add
+
